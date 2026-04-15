@@ -1,6 +1,3 @@
-##  📜 김태한 포트폴리오
-    김동우(TaeHan Kim) -  포트폴리오입니다
-    
 ##  👋 김태한 포트폴리오
     안녕하세요! 책임감있는 개발자, 김태한입니다.!
     유니티 클라이언트 프로그래머로 약 10여년 정도 근무하였습니다.
@@ -9,7 +6,7 @@
     또한 새로운 기술에 대한 열정을 가지고 있습니다.
 
 ##  🌱 사용언어 
-    C#, C++, Python 등
+    C#, C++, Python, Java 등
 
 ##  🔭 사용툴
     Unity, Visual Studio, Android Studio, Jupyter Notebook, Pycharm 등
